@@ -1,6 +1,6 @@
 import pytest
 
-from doonfraction import doonfraction
+from doonfraction.doonfraction import doonfraction
 
 def test_init():
     
