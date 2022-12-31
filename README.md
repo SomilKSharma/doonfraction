@@ -5,7 +5,7 @@ A Python class for working with fractions. The `doonfraction` class allows you t
 ## Examples
 
 ```python
-from doonfraction import doonfraction
+from doonfraction.doonfraction import doonfraction
 
 # Create a fraction
 f = doonfraction(3, 4)
